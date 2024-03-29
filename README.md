@@ -1,0 +1,1 @@
+Through codealpha I have completed the Third task(Task 3). The task is to create a handwritten character recognition system that can recognize various handwritten characters or alphabets. From this task i was able to learn about various other libraries such as tensorflow and keras. 
